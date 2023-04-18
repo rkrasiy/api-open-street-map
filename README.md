@@ -10,6 +10,9 @@ And then run:
 npm run start
 ```
 
+# Create directories
+
+We need create 'certs' folder and 'cache' folder. Folder 'cache' we will use for cache save image
 
 # Step 1 — Initializing the Project
 
