@@ -18,10 +18,11 @@ To get started, create a new folder named node_project and move into that direct
 ```bash
 mkdir api-open-street-map
 cd api-open-street-map
+```
 
 Next, initilizae it as an npm project:
 
-```
+```bash
 npm init -y
 ```
 The -y flag tells npm init to automatically say “yes” to the defaults. You can always update this information later in your package.json file.
